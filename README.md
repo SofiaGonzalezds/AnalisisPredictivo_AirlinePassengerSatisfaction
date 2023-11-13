@@ -4,6 +4,8 @@ Link a la base de datos: https://www.kaggle.com/datasets/teejmahal20/airline-pas
 
 Este repositorio contiene:
 
-- Archivo .R: El código fuente en R utilizado para llevar a cabo el análisis exploratorio, permitiéndote profundizar en los detalles del proceso.
-- Archivo .py: El código fuente en Python utilizado para llevar a cabo la transformación de la base y el análisis predictivo.
-- Archivo PDF de Presentación: Un documento que resume y visualiza los principales hallazgos y conclusiones del análisi y predicción.
+- Archivo EDA.R: Código en R que representa el análisis exploratorio de datos, proporcionando insights detallados sobre la naturaleza de la base de datos.
+  
+- Archivo TratamientoPrediccion.py: Código en Python utilizado para llevar a cabo la transformación de la base y el análisis predictivo. En este archivo se encuentra también la exploración de distintos modelos predictivos e hiperparámetros.
+  
+- Archivo PDF de Presentación: Un documento que resume y visualiza los principales hallazgos y conclusiones del análisis y predicción.
